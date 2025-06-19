@@ -3,7 +3,7 @@
 A Django-based platform for collecting and analyzing citizen feedback using AI.
 
 ## Features
-- AI-powered feedback analysis (NLP & Image Processing)
+- AI-powered feedback analysis 
 - Dashboard for city administrators
 - Priority scoring for issues
 
